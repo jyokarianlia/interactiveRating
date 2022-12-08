@@ -8,6 +8,7 @@
 .bg-orangeColor { background-color: hsl(25, 97%, 53%); }
 .whiteColor { color: hsl(0, 0%, 100%); }
 .lightGreyColor { color: hsl(217, 12%, 63%); }
+.bgLightGreyColor { background-color: hsl(217, 12%, 63%); }
 .mediumGreyColor { background-color: #383e44; }
 .darkBlueColor { background-color: #1e252f; }
 .veryDarkBlueColor { background-color: #141519;}
